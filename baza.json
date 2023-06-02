@@ -1,0 +1,255 @@
+[
+    {
+        "quote": "Set your heart ablaze",
+        "character": "Kyojuro Rengoku",
+        "anime": "Kimetsu No Yaiba"
+    },
+    {
+        "quote": "Surpass your limits. Right here. Right now.",
+        "character": "Yami Sukehiro",
+        "anime": "Black Clover",
+        "anime-jpn": "Black Clover",
+        "image": "images/yami.webp"
+    },
+    {
+        "quote": "If you win, you live. If you lose, you die. If you don’t fight, you can’t win.",
+        "character": "Eren Yeager",
+        "anime": "Attack On Titan",
+        "anime-jpn": "Shingeki no Kyojin",
+        "image": "images/eren.jpeg"
+    },
+    {
+        "quote": "Because I was born into this world.",
+        "character": "Eren Yeager",
+        "anime": "Attack On Titan",
+        "anime-jpn": "Shingeki no Kyojin",
+        "image": "images/eren.jpeg"
+    },
+    {
+        "quote": "If there isn't one, then let's make a place for humans to live outside. Let's change the world.",
+        "character": "Emma",
+        "anime": "The Promised Neverland",
+        "anime-jpn": "Yakusoku no Neverland",
+        "image": "images/emma.webp"
+    },
+    {
+        "quote": "The gap between the rich and the poor exists even among the gods.",
+        "character": "Hiyori Iki",
+        "anime": "Noragami",
+        "anime-jpn": "Noragami",
+        "image": "images/hiyori.webp"
+    },
+    {
+        "quote": "I don't want to regret anything because of the way I have lived.",
+        "character": "Yuji Itadori",
+        "anime": "Jujutsu Kaisen",
+        "anime-jpn": "Jujutsu Kaisen",
+        "image": "images/yuji.avif"
+    },
+    {
+        "quote": "It's better to be hurt than to hurt others.",
+        "character": "Ken Kaneki",
+        "anime": "Tokyo Ghoul",
+        "anime-jpn": "Tokyo Ghoul",
+        "image": "images/ken.jpeg"
+    },
+    {
+        "quote": "No matter what lies you tell, you can't fool your own heart.",
+        "character": "Meliodas",
+        "anime": "Seven Deadly Sins",
+        "anime-jpn": "Nanatsu no Taizai",
+        "image": "images/meliodas.jpeg"
+    },
+    {
+        "quote": "The luminous blue stripes that ring our bodies are the ties that bind friends together in the world of flame and smoke. Never break them.",
+        "character": "Akitaru Obi",
+        "anime": "Fire Force",
+        "anime-jpn": "En En no Shouboutai",
+        "image": "images/obi.webp"
+    },
+    {
+        "quote": "A life doing only what you want to do...it's nothing but a dream. ",
+        "character": "Kobeni Higashiyama",
+        "anime": "Chainsaw Man",
+        "anime-jpn": "Chainsaw Man",
+        "image": "images/kobeni.png"
+    },
+    {
+        "quote": "The world isn’t perfect. But it’s there for us, doing the best it can…that’s what makes it so damn beautiful.",
+        "character": "Roy Mustang",
+        "anime": "Fullmetal Alchemist",
+        "anime-jpn": "Hagane no Renkinjutsushi",
+        "image": "images/mustang.webp"
+    },
+    {
+        "quote": "You can die anytime, but living takes true courage.",
+        "character": "Kenshin Himura",
+        "anime": "Rurouni Kenshin",
+        "anime-jpn": "Rurouni Kenshin",
+        "image": "images/kenshin.avif"
+    },
+    {
+        "quote": "Whatever you lose you will find it again. But what you throw away you will never get back.",
+        "character": "Kenshin Himura",
+        "anime": "Rurouni Kenshin",
+        "anime-jpn": "Rurouni Kenshin",
+        "image": "images/kenshin.avif"
+    },
+    {
+        "quote": " If you don’t take risks, you can’t create a future.",
+        "character": "Monkey D. Luffy",
+        "anime": "One Piece",
+        "anime-jpn": "One Piece",
+        "image": "images/luffy.jpeg"
+    },
+    {
+        "quote": "We don’t have to know what tomorrow holds! That’s why we can live for everything we’re worth today.",
+        "character": "Natsu Dragneel",
+        "anime": "Fairy Tail",
+        "anime-jpn": "Fearī Teiru",
+        "image": "images/natsu.webp"
+    },
+    {
+        "quote": "You may be able to get stronger with simply the right attitude. In other words, train your spirit before worrying about strength through power and technology.",
+        "character": "Saitama",
+        "anime": "One Punch Man",
+        "anime-jpn": "Wanpanman",
+        "image": "images/saitama.jpeg"
+    },
+    {
+        "quote": "What I want is for the humans and the forest to live in peace.",
+        "character": "Ashitaka",
+        "anime": "Princess Mononoke"
+    },
+    {
+        "quote": "Once you have met someone, you never really forget them. It just takes a while for your memories to return.",
+        "character": "Zeniba",
+        "anime": "Spirited Away"
+    },
+    {
+        "quote": "I finally get a bouquet and it’s a goodbye present. That’s depressing.",
+        "character": "Chihiro",
+        "anime": "Spirited Away"
+    },
+    {
+        "quote": "Dedicate your heart.",
+        "character": "Erwin Smith",
+        "anime": "Attack On Titan"
+    },
+    {
+        "quote": "Give up on your dreams and die.",
+        "character": "Levi Ackerman",
+        "anime": "Attack On Titan"
+    },
+    {
+        "quote": "If a miracle only happens once, then what is it called the second time.",
+        "character": "Ichigo Kurosaki",
+        "anime": "Bleach"
+    },
+    {
+        "quote": "Arrogance destroys the footholds of victory.",
+        "character": "Byakuya Kuchiki",
+        "anime": "Bleach"
+    },
+    {
+        "quote": "A victor must speak not of the current state of the world, but of how it should rightfully be.",
+        "character": "Sosuke Aizen",
+        "anime": "Bleach"
+    },
+    {
+        "quote": "Man, kids these days. They think it’s a competition to have the most friends. One is enough. Find someone completely unique.",
+        "character": "Yato",
+        "anime": "Noragami"
+    },
+    {
+        "quote": "Even if things are painful and tough, people should appreciate what it means to be alive.",
+        "character": "Yato",
+        "anime": "Noragami"
+    },
+    {
+        "quote": "Life and death are like light and shadow. They’re both always there. But people don’t like thinking about death, so subconsciously, they always look away from it.",
+        "character": "Yato",
+        "anime": "Noragami"
+    },
+    {
+        "quote": "No matter how many people you may lose, you have no choice but to go on living.",
+        "character": "Tanjiro Kamado",
+        "anime": "Kimetsu No Yaiba"
+    },
+    {
+        "quote": "The weak have no rights or choices. Their only fate is to be relentlessly crushed by the strong.",
+        "character": "Giyu Tomioka",
+        "anime": "Kimetsu No Yaiba"
+    },
+    {
+        "quote": "Remember, it’s the heart that drives people so it can grow as strong as you need it to.",
+        "character": "Tanjiro Kamado",
+        "anime": "Kimetsu No Yaiba"
+    },
+    {
+        "quote": "Those who have baggage like conflict or quandaries are spineless fools. That's always been the story of my life.",
+        "character": "Tengen Uzui",
+        "anime": "Kimetsu No Yaiba"
+    },
+    {
+        "quote": "Protect whatever is precious to you. One day it will lead you to protect something else.",
+        "character": "Yami Sukehiro",
+        "anime": "Black Clover"
+    },
+    {
+        "quote": "Being weak is nothing to be ashamed of… Staying weak is.",
+        "character": "Fuegoleon Vermilion",
+        "anime": "Black Clover"
+    },
+    {
+        "quote": "My magic is never giving up.",
+        "character": "Asta",
+        "anime": "Black Clover"
+    },
+    {
+        "quote": "I’ve been facing adversity from the day I was born! No matter how many of you there are, or what happens, I’ll overcome it all.",
+        "character": "Asta",
+        "anime": "Black Clover"
+    },
+    {
+        "quote": "Even if you weren’t chosen, even if you weren’t wanted, even if you aren’t forgiven… You need to stand your ground no matter how pathetic you are.",
+        "character": "Asta",
+        "anime": "Black Clover"
+    },
+    {
+        "quote": "Know your place, fool.",
+        "character": "Sukuna",
+        "anime": "Jujutsu Kaisen"
+    },
+    {
+        "quote": "I want more good people to enjoy fairness, even if only a few.",
+        "character": "Megumi Fushiguro",
+        "anime": "Jujutsu Kaisen"
+    },
+    {
+        "quote": "Even when our eyes are closed, there’s a whole world out there that lives outside ourselves and our dreams.",
+        "character": "Edward Erlic",
+        "anime": "Fullmetal Alchemist"
+    },
+    {
+        "quote": "In order to obtain something, there must be something of equal value. It is the law of conservation in alchemy. Back then, we believed that it was the truth of the world. However, the real world isn’t perfect, so there is not just a single law that governs everything that happens within it.",
+        "character": "Alphonse Erlic",
+        "anime": "Fullmetal Alchemist"
+    },
+    {
+        "quote": "If you want to get to know someone, find out what makes them angry.",
+        "character": "Gon Freecs",
+        "anime": "Hunter X Hunter"
+    },
+    {
+        "quote": "Humans aren’t made perfectly. Everyone lies. Even so… I’ve been careful not to tell lies that hurt others.",
+        "character": "Light Yagami",
+        "anime": "Death Note"
+    },
+    {
+        "quote": "The human world is a boring place with boring people doing boring things.",
+        "character": "Ryuk",
+        "anime": "Death Note"
+    }
+]
+    
